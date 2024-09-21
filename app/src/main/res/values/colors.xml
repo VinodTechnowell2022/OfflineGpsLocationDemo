@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="fillcolor">#F3F3FA</color>
+    <color name="stroke">#ABABE6</color>
+
+    <color name="title">#5FC5B9</color>
+    <color name="bgcolor">#ffffff</color>
+    <color name="subheader">#b8e4ff</color>
+    <color name="tvcolor">#CDE3F5</color>
+
+    <color name="light_black">#504f4f</color>
+    <color name="blue">#0737d4</color>
+    <color name="asset">#29b762</color>
+    <color name="vendor">#6c88e4</color>
+    <color name="complain">#c7462c</color>
+    <color name="inprogress">#d4bc07</color>
+    <color name="bgBottomNavigation">#fe485a</color>
+    <color name="taskcolor">#49814C</color>
+
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#4070FF</color>
+    <color name="header">#26A193</color>
+    <color name="btnsave">#2c9939</color>
+    <color name="btnlocation">#d4852a</color>
+    <color name="btndelete">#ec464c</color>
+    <color name="btnview">#476ca3</color>
+
+    <color name="viewColor">#979796</color>
+
+
+    <color name="purple">#7c4dff</color>
+    <color name="yellow">#ffb300</color>
+
+    <color name="darkblue">#2980b9</color>
+    <color name="darkpurple">#a569bd</color>
+    <color name="pinky">#fe104d</color>
+    <color name="lightgray">#808080</color>
+    <color name="mainbg">#ffffff</color>
+    <color name="lblback">#e9e9e9</color>
+
+
+    <color name="off_white">#F8F7F9</color>
+    <color name="vlight_grey">#AFAEAE</color>
+    <color name="grey">#989696</color>
+    <color name="dark_grey">#424040</color>
+    <color name="light_grey">#E4E2E2</color>
+    <color name="launcher_color">#0464b4</color>
+    <color name="main">@color/colorPrimary</color>
+    <color name="main_dark">@color/colorPrimaryDark</color>
+
+    <color name="absent">#e36009</color>
+    <color name="card_orange">#EDF5E1D4</color>
+    <color name="main_light">#BA47A2ED</color>
+    <color name="main_vlight">#F36CBAFA</color>
+    <color name="main_vvlight">#3194C7F1</color>
+    <color name="light_skyblue">#D4EFF7</color>
+
+</resources>
